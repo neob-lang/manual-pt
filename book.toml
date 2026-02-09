@@ -1,11 +1,11 @@
 [book]
-title = "🔰 Manual de Referência do Programador NeoBASIC"
-description = "A Linguagem de Programação NeoBASIC"
+title = "🔰 Manual de Referência do Programador Neob"
+description = "A Linguagem de Programação Neob"
 language = "pt"
 src = "src"
 authors = [
   "Raul Bras",
-  "Contribuições da Comunidade NeoBASIC"
+  "Contribuições da Comunidade Neob"
 ]
 
 [output.html]
